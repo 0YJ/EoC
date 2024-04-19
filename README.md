@@ -4,7 +4,7 @@ To eliminate biases from the observer in the conventional phenotyping progress w
 
 MPTSP Dataset
 ---------------
-Please clone our [repository](https://github.com/0YJ/MPTSP) for downloading. We suggest reading [README](https://github.com/placeholder/README.md) before using the dataset.
+Please clone our [repository](https://github.com/0YJ/MPTSP) for downloading. We suggest reading [README](https://github.com/0YJ/MPTSTD) before using the dataset.
 
 Citation
 --------------

@@ -16,5 +16,14 @@ Citation
 
 Please cite the [MPTSP paper](https://www.ph.com/placeholder.pdf) if it helps your research:
 ```bibtex
+@online{dah2024,
+  author = {Jay},
+  publisher = {DaAnHort},
+  title = {EoD},
+  date = {2024-04-24},
+  url = {https://github.com/0YJ/MPTSTD/},
+  note = {Presented at the KIDA Conference 2023 in Quedlinburg},
+  langid = {en}
+}
 
 ```

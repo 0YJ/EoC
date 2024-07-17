@@ -17,7 +17,7 @@ Citation
 Please cite the [MPTSP paper](https://www.ph.com/placeholder.pdf) if it helps your research:
 ```bibtex
 @online{dah2024,
-  author = {Jay, Sven},
+  author = {Yujie, Sven},
   publisher = {DaAnHort},
   title = {EoC},
   date = {2024-04-24},
